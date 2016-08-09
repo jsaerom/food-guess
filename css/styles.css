@@ -1,7 +1,9 @@
 body {
   text-align: center;
 }
-
+#peru-food, #peru-flag, #korea-flag, #korea-food {
+  display:none;
+}
 img {
   height:
   display: block;
