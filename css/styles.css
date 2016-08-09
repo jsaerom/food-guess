@@ -13,3 +13,20 @@ img {
 .resize {
   height: 183px;
 }
+
+button{
+  float: right;
+}
+
+.inverted-background{
+  color: white;
+  background-color: black;
+}
+.standard-background{
+  color: black;
+  background-color: white;
+}
+.highlight{
+  border: 1px solid black;
+  background: yellow;
+}
